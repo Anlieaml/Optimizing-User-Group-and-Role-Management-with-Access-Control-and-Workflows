@@ -7,7 +7,7 @@
 
 ## 👥 Team Members
 
-- **Team Leader:** Anlie Mangdaline Loyed  
+- **Team Leader:** Anlie Mangdalene Loyed  
 - **Team Member:** Adwin  
 - **Team Member:** Aaromal  
 - **Team Member:** Adarsh
